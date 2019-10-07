@@ -6,7 +6,7 @@ public class Test02 {
 		
 		System.out.println("我是test022222222222222");
 		System.out.println("我是test022222222222222");
-		System.out.println("我是test022222222222222");
+		System.out.println("我是test022222222222222 ");
 		
 	}
 	
