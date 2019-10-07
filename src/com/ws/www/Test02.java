@@ -5,7 +5,9 @@ public class Test02 {
 	public static void main(String[] args) {
 		
 		System.out.println("22222222222");
-		System.out.println("22222222222");
+		System.out.println("12121212121");
+		System.out.println("232323232323");
+		System.out.println("343434343434");
 		
 		
 	}
